@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="atlas.yiba.com.remotebundle">
+
+    <application>
+        <activity android:name=".RemoteMainActivity" />
+        <activity android:name=".SencondActivity"></activity>
+    </application>
+
+</manifest>
